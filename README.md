@@ -2,7 +2,7 @@
 
 **`Estudante de Ciência da Computação`**
 
-Me chamo Isaque teodoro, tenho 19 anos e sou natural de Campinas-SP. Concluí o ensino médio na E.E. Dep. Jamil Gadia. Atualmente, estou cursando Ciências da Computação ma FSFA. Sou apaixonada por tecnologia e fotografia, compartilho meu conhecimento através do meu Instagram, com o perfil chamado "[isaqueeteo_](https://www.instagram.com/isaqueeteo_/)".
+Me chamo Isaque teodoro, tenho 19 anos e sou natural de Campinas-SP. Concluí o ensino médio na E.E. Dep. Jamil Gadia. Atualmente, estou cursando Ciências da Computação ma FSFA. Sou apaixonada por tecnologia e fotografia, compartilho meu conhecimento através do meu Instagram, com o perfil chamado "[isaqueteo_](https://www.instagram.com/isaqueteo_/)".
 
 <p align="left">
     <a href="https://github.com/NeegoVeio?tab=repositories&sort=stargazers">
