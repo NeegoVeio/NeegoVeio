@@ -88,11 +88,7 @@ Me chamo Isaque teodoro, tenho 19 anos e sou natural de Campinas-SP. Concluí o 
 ### 📊 Estatísticas
 
 <p>
- <img align="left" 
-      alt="GitHub Stats"
-      height="200" src="https://camo.githubusercontent.com/4bc9ce5aed5352caee227a740ea7345b7e326cb791410869be20ba23606024e5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6c6172697373616b696368267468656d653d746f6b796f6e69676874266c61796f75743d636f6d7061637426637573746f6d5f7469746c653d5465636e6f6c6f67696173266c616e67735f636f756e743d39"
-     data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&amp;theme=tokyonight&amp;layout=compact&amp;custom_title=Tecnologias&amp;langs_count=9" style="max-width: 100%; height: auto; max-height: 200px;">
-
+ <img align="left" alt="GitHub Stats" height="200" src="https://camo.githubusercontent.com/22980daa39371e7bca49e0a9f0dc3715d75655c941d1cca8cbf468cb1f788370/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4e6565676f5665696f2673686f775f69636f6e733d74727565267468656d653d746f6b796f6e6967687426696e636c7564655f616c6c5f636f6d6d6974733d74727565266c6f63616c653d70742d6272" data-canonical-src="https://github-readme-stats.vercel.app/api?username=NeegoVeio&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;locale=pt-br" style="max-width: 100%; height: auto; max-height: 200px;">
 <img 
       align="left" 
       alt="GitHub Stats" 
