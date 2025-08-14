@@ -88,13 +88,10 @@ Me chamo Isaque teodoro, tenho 19 anos e sou natural de Campinas-SP. Concluí o 
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=NeegoVeio&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+ <img align="left" 
+      alt="GitHub Stats"
+      height="200" src="https://camo.githubusercontent.com/4bc9ce5aed5352caee227a740ea7345b7e326cb791410869be20ba23606024e5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6c6172697373616b696368267468656d653d746f6b796f6e69676874266c61796f75743d636f6d7061637426637573746f6d5f7469746c653d5465636e6f6c6f67696173266c616e67735f636f756e743d39"
+     data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&amp;theme=tokyonight&amp;layout=compact&amp;custom_title=Tecnologias&amp;langs_count=9" style="max-width: 100%; height: auto; max-height: 200px;">
 
 <img 
       align="left" 
