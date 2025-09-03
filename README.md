@@ -59,11 +59,27 @@ Me chamo Isaque teodoro, tenho 19 anos e sou natural de Campinas-SP. Concluí o 
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Vue 2" 
+    title="Vue 2" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Vue 3" 
+    title="Vue 3" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Vuetify" 
+    title="Vuetify" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" 
 />
 <img 
     align="left" 
