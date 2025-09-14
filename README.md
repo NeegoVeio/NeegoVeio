@@ -37,9 +37,9 @@ Desenvolvedor Front-End em formação, apaixonado por criar interfaces modernas 
 </p>
 
 ---
-
+<div
 ### 🌐 Meu Portfólio
-<div class="card">
+ class="card">
   <a href="https://portfolio-beige-seven-21.vercel.app/" target="_blank">
     <img src="portfolio-preview.png" alt="Portfolio Preview" style="width:100%; border-radius: 15px;">
   </a>
