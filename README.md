@@ -5,6 +5,16 @@ Desenvolvedor Front-End em formação, apaixonado por criar interfaces modernas 
 
 ---
 
+### 🌐 Meu Portfólio
+<div
+ class="card">
+  <a href="https://portfolio-beige-seven-21.vercel.app/" target="_blank">
+    <img src="portfolio-preview.png" alt="Portfolio Preview" style="width:100%; border-radius: 15px;">
+  </a>
+</div>
+
+---
+
 ### 💻 Principais Tecnologias
 <p>
   <img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
@@ -37,10 +47,4 @@ Desenvolvedor Front-End em formação, apaixonado por criar interfaces modernas 
 </p>
 
 ---
-<div
-### 🌐 Meu Portfólio
- class="card">
-  <a href="https://portfolio-beige-seven-21.vercel.app/" target="_blank">
-    <img src="portfolio-preview.png" alt="Portfolio Preview" style="width:100%; border-radius: 15px;">
-  </a>
-</div>
+
