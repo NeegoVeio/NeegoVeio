@@ -46,5 +46,4 @@ Desenvolvedor Front-End em formação, apaixonado por criar interfaces modernas 
 <img align="left" alt="Top Linguagens" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeegoVeio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9">
 </p>
 
----
 
