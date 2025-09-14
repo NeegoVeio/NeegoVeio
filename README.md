@@ -40,7 +40,6 @@ Desenvolvedor Front-End em formação, apaixonado por criar interfaces modernas 
 
 ### 🌐 Meu Portfólio
 <div class="card">
-  <h3>🌐 Meu Portfólio</h3>
   <a href="https://portfolio-link" target="_blank">
     <img src="portfolio-preview.png" alt="Portfolio Preview" style="width:100%; border-radius: 15px;">
   </a>
